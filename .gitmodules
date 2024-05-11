@@ -1,6 +1,6 @@
 [submodule "cpp-graph"]
 	path = cpp-graph
-	url = git@github.com:goodfella/cpp-graph.git
+	url = ../cpp-graph.git
 [submodule "mgclient"]
 	path = mgclient
-	url = git@github.com:memgraph/mgclient.git
+	url = https://github.com/memgraph/mgclient.git
